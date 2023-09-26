@@ -15,7 +15,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Pra contado segue as redes abaixo!
  
 <div> 
   <a href="https://instagram.com/gabrielpradoconceicao?igshid=OGQ5ZDc2ODk2ZA=="><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

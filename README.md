@@ -1,8 +1,7 @@
 ## Bem-vindo(a) ao perfil do Gabriel Prado 😁
 
+ ![GabrielP-C GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielP-C&show_icons=true&theme=radical)
  <div>
-   <a href="https://github.com/GabrielP-C">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielP-C&s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielP-C&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
